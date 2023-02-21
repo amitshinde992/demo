@@ -1,1 +1,2 @@
 this is first line of file 1 writen initially
+this is second line of file 1
